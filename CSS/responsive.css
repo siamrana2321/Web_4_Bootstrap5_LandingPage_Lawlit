@@ -1,0 +1,279 @@
+                        @media (max-width:1199px) {
+                            .hero-area h1 {
+                                width: 64%;
+                                font-size: 69px;
+                            }
+                            .hero-area p {
+                                font-size: 20px;
+                            }
+                            h2 {
+                                font-size: 45px !important;
+                            }
+                            .about-text p {
+                                font-size: 18px;
+                            }
+                        }
+                        
+                        @media (max-width:992px) {
+                            .hero-content {
+                                background-color: #000000ad;
+                            }
+                            .hero-area h1 {
+                                width: 100%;
+                                text-align: center;
+                                color: #ffffff;
+                            }
+                            .hero-area .hero-p p,
+                            .hero-area p {
+                                width: 70%;
+                                text-align: center;
+                                color: #ffffff;
+                                margin: 0 auto;
+                            }
+                            .hero-area h1 {
+                                width: 85%;
+                                margin: 60px auto;
+                            }
+                            .hero-area .hero-button-area {
+                                display: flex;
+                                justify-content: center;
+                            }
+                            .tech-company,
+                            .tech-company .col-5 {
+                                display: flex;
+                                justify-content: center;
+                            }
+                            .tech-company .col-5 {
+                                background: #ffffffc4;
+                                border-radius: 5px;
+                                margin: 0 10px;
+                            }
+                            .tech-company .col-5 img {
+                                max-width: 100%;
+                                padding: 5px;
+                            }
+                            .about-text {
+                                text-align: center;
+                            }
+                            .testimonial-box .box {
+                                width: 75%;
+                            }
+                            .consultant-area p,
+                            .consultant-area button {
+                                font-size: 20px;
+                            }
+                        }
+                        
+                        @media (max-width:767px) {
+                            .search {
+                                display: none;
+                            }
+                            .mbl-search {
+                                display: flex !important;
+                            }
+                            .logo {
+                                margin: 0 10px 0 0;
+                            }
+                            .title {
+                                margin: 0 auto 0 0;
+                            }
+                            .first {
+                                margin-top: 10px;
+                            }
+                            .nav-item {
+                                width: 100%;
+                                text-align: center;
+                            }
+                            h2 {
+                                font-size: 43px !important;
+                            }
+                            .hero-area h1 {
+                                width: auto;
+                                line-height: 80px
+                            }
+                            .hero-button-area .btn {
+                                width: 70%;
+                                height: auto;
+                            }
+                            .tech-company .row {
+                                width: 51%;
+                            }
+                            .about-area .row {
+                                margin: 0;
+                            }
+                            .number-area .col-md-3 {
+                                margin: 5px 0;
+                                width: 51%;
+                            }
+                            .counts .border-one {
+                                border-left: none;
+                                border-top: 1px solid #fff;
+                            }
+                            .testimonial-box .box {
+                                width: 100%;
+                            }
+                            .testimonial-area .card-body {
+                                margin: 0;
+                            }
+                            .pic img {
+                                float: none;
+                            }
+                            .pic,
+                            .name,
+                            .name-pic .name p {
+                                text-align: center;
+                            }
+                            .name-pic .row {
+                                margin: 13px auto;
+                            }
+                            .consultant-area .consultant-text {
+                                text-align: center;
+                            }
+                            .consultant-text .btn {
+                                width: 70%;
+                                margin: 0 auto;
+                                height: auto;
+                            }
+                            .footer-start-box-area {
+                                border-bottom: 1px solid #fff;
+                            }
+                            .footer-start-box {
+                                margin: 15px auto;
+                            }
+                            .footer-start-area {
+                                margin: 30px auto;
+                            }
+                            .footer-end-area .col-md-8 {
+                                order: 2;
+                                justify-content: center;
+                            }
+                            .footer-end-area .col-md-4 {
+                                order: 1;
+                            }
+                        }
+                        
+                        @media (max-width:549px) {
+                            .hero-area h1 {
+                                font-size: 65px;
+                            }
+                        }
+                        
+                        @media (max-width:530px) {
+                            .tech-company .row {
+                                width: 55%;
+                            }
+                        }
+                        
+                        @media (max-width:521px) {
+                            .tech-company .row {
+                                width: 55%;
+                            }
+                        }
+                        
+                        @media (max-width:496px) {
+                            .hero-area h1 {
+                                font-size: 60px;
+                            }
+                            .hero-area .hero-p p {
+                                font-size: 22px;
+                            }
+                            .tech-company .row {
+                                width: 60%;
+                            }
+                        }
+                        
+                        @media (max-width:459px) {
+                            .hero-area h1 {
+                                font-size: 55px;
+                            }
+                            .tech-company .row {
+                                width: 65%;
+                            }
+                        }
+                        
+                        @media (max-width:429px) {
+                            h2 {
+                                font-size: 35px !important;
+                            }
+                            .tech-company .row {
+                                width: 70%;
+                            }
+                        }
+                        
+                        @media (max-width:402px) {
+                            .hero-area h1 {
+                                font-size: 50px;
+                            }
+                            .tech-company .row {
+                                width: 75%;
+                            }
+                        }
+                        
+                        @media (max-width:388px) {
+                            .hero-area h1 {
+                                font-size: 46px;
+                            }
+                        }
+                        
+                        @media (max-width:379px) {
+                            .hero-area h1 {
+                                font-size: 45px;
+                            }
+                            .tech-company .row {
+                                width: 80%;
+                            }
+                        }
+                        
+                        @media (max-width:361px) {
+                            .hero-area h1 {
+                                font-size: 43px;
+                            }
+                            .tech-company .row {
+                                width: 85%;
+                            }
+                        }
+                        
+                        @media (max-width:347px) {
+                            .hero-area h1 {
+                                font-size: 41px;
+                            }
+                            .hero-area .hero-p p {
+                                font-size: 20px;
+                            }
+                            .tech-company .row {
+                                width: 100%;
+                            }
+                        }
+                        
+                        @media (max-width:315px) {
+                            .hero-area h1 {
+                                font-size: 40px;
+                            }
+                            .hero-area .hero-p p {
+                                font-size: 18px;
+                            }
+                            h2 {
+                                font-size: 30px !important;
+                            }
+                        }
+                        
+                        @media (max-width:299px) {
+                            .tech-company .row {
+                                width: 103%;
+                            }
+                        }
+                        
+                        @media (max-width:292px) {
+                            .tech-company .row {
+                                width: 107%;
+                            }
+                            .hero-area h1 {
+                                font-size: 38px;
+                            }
+                            .hero-area .hero-p p {
+                                font-size: 18px;
+                            }
+                            h2 {
+                                font-size: 28px !important;
+                            }
+                        }
